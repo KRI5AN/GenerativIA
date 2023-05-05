@@ -6,13 +6,7 @@ Introduction
 ..
     Ceci est un commentaire
 
-Écrivez votre introduction. L'introduction doit contenir les éléments suivants
+L'avènement de Chat-GPT nous offre une nouvelle manière de penser la manière dont nous vivons nos quotidiens professionnels et privés. A l'aube de ces potentiels changements, ce travail propose un survol de ce que l'on peut attendre d'une intelligence artificielle (IA) ainsi que ses limites. Pour se faire, la consultation d'études et l'analyse des avis de personnes influentes seront l'ossature de la reflexion.
 
-- évoquer le but du projet (motivation personnelle)
-- évoquer les notions scientifiques / techiques utilisées dans le projet
-- Motivation
 
-  - S'il s'agit d'un sujet théorique, évoquer l'intérêt / l'importance du sujet
-  - S'il s'agit d'un projet pratique (programmation / etc ...), indiquer ce que
-    votre projet apporte, ce qu'il permet de faire.
-
+nah but :cite:`test` 

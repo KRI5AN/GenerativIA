@@ -4,14 +4,15 @@
     contain the root `toctree` directive.
     
 
-Titre de votre travail personnel (changer dans `source/index.rst`)
+Intelligence artificiel, limites et potentiel  
 =================================
 
 ..  toctree::
     :maxdepth: 2
-    :caption: Table des matières
+    :caption: Table des matière
 
     introduction.rst
+    chapitre-01.md
     conclusion.rst
     references.rst
 
